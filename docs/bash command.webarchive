@@ -1,0 +1,311 @@
+bplist00“_WebMainResource_WebSubresources’	
+_WebResourceFrameName^WebResourceURL_WebResourceData_WebResourceMIMEType_WebResourceTextEncodingNameP_http://ss64.com/bash/OF¶<!DOCTYPE html><html><head><meta charset="UTF-8">
+<link rel="STYLESHEET" href="../main.css" type="text/css">
+<title>An A-Z Index of the Bash command line for Linux | Bash | SS64.com</title>
+<meta name="Description" content="An A-Z Index of the bash command line for linux">
+<meta name="Keywords" content="bash,linux,Command line,unix,script">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../rss.xml">
+<style type="text/css">
+.grn { color: #339900; text-decoration: none; }
+</style></head>
+<body>
+<div id="tnav"><ul>
+<li class="tbtn"><a href="../">( &nbsp;SS64 &nbsp;)</a></li>
+<li class="tbtn"><a href="../links/bash.html">Links</a></li>
+<li class="tbtn"><a href="syntax.html">Syntax</a></li>
+<li><div id="search"><form action="http://www.google.com/search" method="get">
+<button tabindex="-1" type="submit" id="q-img"></button>
+<input type="text" name="q" id="q" size="27" maxlength="255" onblur="if(this.value=='')this.value='Search‚Ä¶';" onclick="if(this.value=='Search‚Ä¶')this.value='';" value="Search‚Ä¶">
+<input type="hidden" name="sitesearch" value="ss64.com"></form></div></li>
+</ul></div>
+<h1>An A-Z Index of the  <span class="grn">Bash</span> command line for Linux.</h1>
+<pre>  <a href="alias.html">alias</a>    Create an alias ‚Ä¢
+  apropos  Search Help manual pages (man -k)
+  <a href="apt-get.html">apt-get</a>  Search for and install software packages (Debian/Ubuntu)
+  <a href="aptitude.html">aptitude</a> Search for and install software packages (Debian/Ubuntu)
+  <a href="aspell.html">aspell</a>   Spell Checker
+  <a href="awk.html">awk</a>      Find and Replace text, database sort/validate/index
+b
+  <a href="basename.html">basename</a> Strip directory and suffix from filenames
+  bash     GNU Bourne-Again SHell 
+  <a href="bc.html">bc</a>       Arbitrary precision calculator language 
+  <a href="bg.html">bg</a>       Send to background
+  <a href="break.html">break</a>    Exit from a loop ‚Ä¢
+  <a href="builtin.html">builtin</a>  Run a shell builtin
+  <a href="bzip2.html">bzip2</a>    Compress or decompress named file(s)
+c
+  <a href="cal.html">cal</a>      Display a calendar
+  <a href="case.html">case</a>     Conditionally perform a command
+  <a href="cat.html">cat</a>      Concatenate and print (display) the content of files
+  <a href="cd.html">cd</a>       Change Directory
+  <a href="cfdisk.html">cfdisk</a>   Partition table manipulator for Linux
+  <a href="chgrp.html">chgrp</a>    Change group ownership
+  <a href="chmod.html">chmod</a>    Change access permissions
+  <a href="chown.html">chown</a>    Change file owner and group
+  <a href="chroot.html">chroot</a>   Run a command with a different root directory
+  <a href="chkconfig.html">chkconfig</a> System services (runlevel)
+  <a href="cksum.html">cksum</a>    Print CRC checksum and byte counts
+  clear    Clear terminal screen
+  <a href="cmp.html">cmp</a>      Compare two files
+  <a href="comm.html">comm</a>     Compare two sorted files line by line
+  <a href="command.html">command</a>  Run a command - ignoring shell functions ‚Ä¢
+  <a href="continue.html">continue</a> Resume the next iteration of a loop ‚Ä¢
+  <a href="cp.html">cp</a>       Copy one or more files to another location
+  <a href="cron.html">cron</a>     Daemon to execute scheduled commands
+  <a href="crontab.html">crontab</a>  Schedule a command to run at a later time
+  <a href="csplit.html">csplit</a>   Split a file into context-determined pieces
+  <a href="cut.html">cut</a>      Divide a file into several parts
+d
+  <a href="date.html">date</a>     Display or change the date &amp; time
+  <a href="dc.html">dc</a>       Desk Calculator
+  <a href="dd.html">dd</a>       Convert and copy a file, write disk headers, boot records
+  <a href="ddrescue.html">ddrescue</a> Data recovery tool
+  <a href="declare.html">declare</a>  Declare variables and give them attributes ‚Ä¢
+  <a href="df.html">df</a>       Display free disk space
+  <a href="diff.html">diff</a>     Display the differences between two files
+  <a href="diff3.html">diff3</a>    Show differences among three files
+  <a href="dig.html">dig</a>      DNS lookup
+  <a href="dir.html">dir</a>      Briefly list directory contents
+  <a href="dircolors.html">dircolors</a> Colour setup for `ls'
+  <a href="dirname.html">dirname</a>  Convert a full pathname to just a path
+  <a href="dirs.html">dirs</a>     Display list of remembered directories
+  <a href="dmesg.html">dmesg</a>    Print kernel &amp; driver messages 
+  <a href="du.html">du</a>       Estimate file space usage
+e
+  <a href="echo.html">echo</a>     Display message on screen ‚Ä¢
+  <a href="egrep.html">egrep</a>    Search file(s) for lines that match an extended expression
+  <a href="eject.html">eject</a>    Eject removable media
+  <a href="enable.html">enable</a>   Enable and disable builtin shell commands ‚Ä¢
+  <a href="env.html">env</a>      Environment variables
+  ethtool  Ethernet card settings
+  <a href="eval.html">eval</a>     Evaluate several commands/arguments
+  <a href="exec.html">exec</a>     Execute a command
+  <a href="exit.html">exit</a>     Exit the shell
+  <a href="http://en.wikipedia.org/wiki/Expect">expect</a>   Automate arbitrary applications accessed over a terminal
+  <a href="expand.html">expand</a>   Convert tabs to spaces
+  <a href="export.html">export</a>   Set an environment variable
+  <a href="expr.html">expr</a>     Evaluate expressions
+f
+  <a href="false.html">false</a>    Do nothing, unsuccessfully
+  <a href="fdformat.html">fdformat</a> Low-level format a floppy disk
+  <a href="fdisk.html">fdisk</a>    Partition table manipulator for Linux
+  <a href="fg.html">fg</a>       Send job to foreground 
+  <a href="fgrep.html">fgrep</a>    Search file(s) for lines that match a fixed string
+  <a href="file.html">file</a>     Determine file type
+  <a href="find.html">find</a>     Search for files that meet a desired criteria
+  <a href="fmt.html">fmt</a>      Reformat paragraph text
+  <a href="fold.html">fold</a>     Wrap text to fit a specified width.
+  <a href="for.html">for</a>      Expand <var>words</var>, and execute <var>commands</var>
+  format   Format disks or tapes
+  free     Display memory usage
+  <a href="fsck.html">fsck</a>     File system consistency check and repair
+  ftp      File Transfer Protocol
+  <a href="function.html">function</a> Define Function Macros
+  <a href="fuser.html">fuser</a>    Identify/kill the process that is accessing a file
+g
+  <a href="awk.html">gawk</a>     Find and Replace text within file(s)
+  <a href="getopts.html">getopts</a>  Parse positional parameters
+  <a href="grep.html">grep</a>     Search file(s) for lines that match a given pattern
+  <a href="groupadd.html">groupadd</a> Add a user security group
+  <a href="groupdel.html">groupdel</a> Delete a group
+  <a href="groupmod.html">groupmod</a> Modify a group
+  <a href="groups.html">groups</a>   Print group names a user is in
+  <a href="gzip.html">gzip</a>     Compress or decompress named file(s)
+h
+  <a href="hash.html">hash</a>     Remember the full pathname of a name argument
+  <a href="head.html">head</a>     Output the first part of file(s)
+  help     Display help for a built-in command ‚Ä¢
+  <a href="history.html">history</a>  Command History
+  <a href="hostname.html">hostname</a> Print or set system name
+i
+  <a href="iconv.html">iconv</a>    Convert the character set of a file
+  <a href="id.html">id</a>       Print user and group id's
+  <a href="if.html">if</a>       Conditionally perform a command
+  <a href="ifconfig.html">ifconfig</a> Configure a network interface
+  <a href="ifup.html">ifdown</a>   Stop a network interface 
+  <a href="ifup.html">ifup</a>     Start a network interface up
+  <a href="import.html">import</a>   Capture an X server screen and save the image to file
+  <a href="install.html">install</a>  Copy files and set attributes
+j
+  <a href="jobs.html">jobs</a>     List active jobs ‚Ä¢
+  <a href="join.html">join</a>     Join lines on a common field
+k
+  <a href="kill.html">kill</a>     Stop a process from running
+  <a href="killall.html">killall</a>  Kill processes by name
+l
+  <a href="less.html">less</a>     Display output one screen at a time
+  <a href="let.html">let</a>      Perform arithmetic on shell variables ‚Ä¢
+  <a href="link.html">link</a>     Create a link to a file 
+  <a href="ln.html">ln</a>       Create a symbolic link to a file
+  <a href="local.html">local</a>    Create variables ‚Ä¢
+  <a href="locate.html">locate</a>   Find files
+  <a href="logname.html">logname</a>  Print current login name
+  <a href="logout.html">logout</a>   Exit a login shell ‚Ä¢
+  <a href="look.html">look</a>     Display lines beginning with a given string
+  <a href="lpc.html">lpc</a>      Line printer control program
+  <a href="lpr.html">lpr</a>      Off line print
+  lprint   Print a file
+  lprintd  Abort a print job
+  lprintq  List the print queue
+  <a href="lprm.html">lprm</a>     Remove jobs from the print queue
+  <a href="ls.html">ls</a>       List information about file(s)
+  <a href="lsof.html">lsof</a>     List open files
+m
+  make     Recompile a group of programs
+  <a href="man.html">man</a>      Help manual
+  <a href="mkdir.html">mkdir</a>    Create new folder(s)
+  <a href="mkfifo.html">mkfifo</a>   Make FIFOs (named pipes)
+  mkisofs  Create an hybrid ISO9660/JOLIET/HFS filesystem
+  <a href="mknod.html">mknod</a>    Make block or character special files
+  <a href="more.html">more</a>     Display output one screen at a time
+  <a href="mount.html">mount</a>    Mount a file system
+  <a href="mtools.html">mtools</a>   Manipulate MS-DOS files
+  <a href="mtr.html">mtr</a>      Network diagnostics (traceroute/ping)
+  <a href="mv.html">mv</a>       Move or rename files or directories
+  <a href="mmv.html">mmv</a>      Mass Move and rename (files)
+n
+  netstat  Networking information
+  <a href="nice.html">nice</a>     Set the priority of a command or job
+  <a href="nl.html">nl</a>       Number lines and write files
+  <a href="nohup.html">nohup</a>    Run a command immune to hangups
+  <a href="notify-send.html">notify-send</a>  Send desktop notifications
+  <a href="nslookup.html">nslookup</a> Query Internet name servers interactively
+o
+  <a href="open.html">open</a>     Open a file in its default application
+  <a href="op.html">op</a>       Operator access 
+p
+  <a href="passwd.html">passwd</a>   Modify a user password
+  <a href="paste.html">paste</a>    Merge lines of files
+  pathchk  Check file name portability
+  <a href="ping.html">ping</a>     Test a network connection
+  <a href="pkill.html">pkill</a>    Stop processes from running
+  <a href="popd.html">popd</a>     Restore the previous value of the current directory
+  <a href="pr.html">pr</a>       Prepare files for printing
+  printcap Printer capability database
+  printenv Print environment variables
+  <a href="printf.html">printf</a>   Format and print data ‚Ä¢
+  <a href="ps.html">ps</a>       Process status
+  <a href="pushd.html">pushd</a>    Save and then change the current directory
+  <a href="pv.html">pv</a>       Monitor the progress of data through a pipe 
+  <a href="pwd.html">pwd</a>      Print Working Directory
+q
+  <a href="quota.html">quota</a>    Display disk usage and limits
+  <a href="quotacheck.html">quotacheck</a> Scan a file system for disk usage
+  <a href="quotactl.html">quotactl</a> Set disk quotas
+r
+  <a href="ram.html">ram</a>      ram disk device
+  <a href="rcp.html">rcp</a>      Copy files between two machines
+  <a href="read.html">read</a>     Read a line from standard input ‚Ä¢
+  readarray Read from stdin into an array variable ‚Ä¢
+  <a href="readonly.html">readonly</a> Mark variables/functions as readonly
+  reboot   Reboot the system
+  <a href="rename.html">rename</a>   Rename files
+  renice   Alter priority of running processes 
+  remsync  Synchronize remote files via email
+  <a href="return.html">return</a>   Exit a shell function
+  <a href="rev.html">rev</a>      Reverse lines of a file
+  <a href="rm.html">rm</a>       Remove files
+  <a href="rmdir.html">rmdir</a>    Remove folder(s)
+  <a href="rsync.html">rsync</a>    Remote file copy (Synchronize file trees)
+s
+  <a href="screen.html">screen</a>   Multiplex terminal, run remote shells via ssh
+  <a href="scp.html">scp</a>      Secure copy (remote file copy)
+  <a href="sdiff.html">sdiff</a>    Merge two files interactively
+  <a href="sed.html">sed</a>      Stream Editor
+  <a href="select.html">select</a>   Accept keyboard input
+  <a href="seq.html">seq</a>      Print numeric sequences
+  <a href="set.html">set</a>      Manipulate shell variables and functions
+  sftp     Secure File Transfer Program
+  <a href="shift.html">shift</a>    Shift positional parameters
+  <a href="shopt.html">shopt</a>    Shell Options
+  <a href="shutdown.html">shutdown</a> Shutdown or restart linux
+  <a href="sleep.html">sleep</a>    Delay for a specified time
+  <a href="slocate.html">slocate</a>  Find files
+  <a href="sort.html">sort</a>     Sort text files
+  <a href="source.html">source</a>   Run commands from a file '.'
+  <a href="split.html">split</a>    Split a file into fixed-size pieces
+  <a href="ssh.html">ssh</a>      Secure Shell client (remote login program)
+  strace   Trace system calls and signals
+  <a href="su.html">su</a>       Substitute user identity
+  <a href="sudo.html">sudo</a>     Execute a command as another user
+  <a href="sum.html">sum</a>      Print a checksum for a file
+  <a href="suspend.html">suspend</a>  Suspend execution of this shell ‚Ä¢
+  <a href="sync.html">sync</a>     Synchronize data on disk with memory
+t
+  <a href="tail.html">tail</a>     Output the last part of file
+  <a href="tar.html">tar</a>      Store, list or extract files in an archive
+  <a href="tee.html">tee</a>      Redirect output to multiple files
+  <a href="test.html">test</a>     Evaluate a conditional expression
+  <a href="time.html">time</a>     Measure Program running time
+  <a href="timeout.html">timeout</a>  Run a command with a time limit
+  <a href="times.html">times</a>    User and system times
+  <a href="touch.html">touch</a>    Change file timestamps
+  <a href="top.html">top</a>      List processes running on the system
+  <a href="traceroute.html">traceroute</a> Trace Route to Host
+  trap     Run a command when a signal is set(bourne)
+  <a href="tr.html">tr</a>       Translate, squeeze, and/or delete characters
+  <a href="true.html">true</a>     Do nothing, successfully
+  <a href="tsort.html">tsort</a>    Topological sort
+  <a href="tty.html">tty</a>      Print filename of terminal on stdin
+  <a href="type.html">type</a>     Describe a command ‚Ä¢
+u
+  <a href="ulimit.html">ulimit</a>   Limit user resources ‚Ä¢
+  <a href="umask.html">umask</a>    Users file creation mask
+  umount   Unmount a device
+  <a href="alias.html">unalias</a>  Remove an alias ‚Ä¢
+  <a href="uname.html">uname</a>    Print system information
+  <a href="unexpand.html">unexpand</a> Convert spaces to tabs
+  <a href="uniq.html">uniq</a>     Uniquify files
+  <a href="units.html">units</a>    Convert units from one scale to another
+  <a href="unset.html">unset</a>    Remove variable or function names
+  <a href="unshar.html">unshar</a>   Unpack shell archive scripts
+  <a href="until.html">until</a>    Execute commands (until error)
+  uptime   Show uptime
+  <a href="useradd.html">useradd</a>  Create new user account
+  <a href="userdel.html">userdel</a>  Delete a user account
+  <a href="usermod.html">usermod</a>  Modify user account
+  <a href="users.html">users</a>    List users currently logged in
+  <a href="uuencode.html">uuencode</a> Encode a binary file 
+  <a href="uuencode.html">uudecode</a> Decode a file created by uuencode
+v
+  v        Verbosely list directory contents (`ls -l -b')
+  vdir     Verbosely list directory contents (`ls -l -b')
+  <a href="../vi.html">vi</a>       Text Editor
+  <a href="vmstat.html">vmstat</a>   Report virtual memory statistics
+w
+  <a href="wait.html">wait</a>     Wait for a process to complete ‚Ä¢
+  <a href="watch.html">watch</a>    Execute/display a program periodically
+  <a href="wc.html">wc</a>       Print byte, word, and line counts
+  <a href="whereis.html">whereis</a>  Search the user's $path, man pages and source files for a program
+  <a href="which.html">which</a>    Search the user's $path for a program file
+  <a href="while.html">while</a>    Execute commands
+  <a href="who.html">who</a>      Print all usernames currently logged in
+  <a href="whoami.html">whoami</a>   Print the current user id and name (`id -un')
+  wget     Retrieve web pages or files via HTTP, HTTPS or FTP
+  <a href="write.html">write</a>    Send a message to another user 
+x
+  <a href="xargs.html">xargs</a>    Execute utility, passing constructed argument list(s)
+  <a href="xdg-open.html">xdg-open</a> Open a file or URL in the user's preferred application.
+  <a href="yes.html">yes</a>      Print a string until interrupted
+  <a href="zip.html">zip</a>      Package and compress (archive) files.
+  <a href="source.html">.</a>        Run a command script in the current shell
+  <a href="bang.html">!!</a>       Run the last command again
+  <a href="rem.html">###</a>      Comment / Remark
+</pre>
+<p> Commands marked ‚Ä¢ are bash <i>built-ins</i><br>
+Many commands particularly the Core Utils
+are also available under alternate <a href="http://www.freebsd.org/ports/shells.html">shells</a> (C shell, Korn shell etc). </p>
+<p>More bash commands: <a href="http://oreilly.com/linux/command-directory/">Linux Command Directory</a> from O'Reilly, GNU <a href="http://www.gnu.org/software/coreutils/manual/coreutils.html">CoreUtils</a>.<br>
+<a href="http://ss64.org/viewforum.php?id=10">SS64 bash discussion forum</a><br>
+<a href="../links/bash.html">Links to other Sites, books etc</a></p><!-- #BeginLibraryItem "/Library/foot_menu.lbi" --><hr>
+<div id="bl" class="footer"><a href="#"><img src="../images/top.png" width="30" height="22" alt="Back to the Top"></a></div>
+<div id="br" class="footer, tagline">¬© Copyright <a href="http://ss64.com/">SS64.com</a> 1999-2014<br>
+Some rights reserved</div><!-- #EndLibraryItem -->
+
+</body></html>Ytext/htmlUUTF-8¢‘_WebResourceResponse_http://ss64.com/main.cssO˜bplist00‘fgX$versionX$objectsY$archiverT$top Ü†Ø#)*0123KLMNOPQRSTUVWXYZ[\]`aU$null›	
+ !"R$6S$10R$2R$7R$3S$11R$8V$classR$4R$9R$0R$5R$1Ä	ÄÄÄÄÄÄÄ”$%&'(WNS.base[NS.relativeÄ ÄÄ_http://ss64.com/main.css“+,-.Z$classnameX$classesUNSURL¢-/XNSObject#Aπ∞‚¬{û »”456@JWNS.keysZNS.objects©789:;<=>?Ä	Ä
+ÄÄÄÄÄÄÄ©ACDEFGHIÄÄÄÄÄÄÄÄÄÄVServer\Content-TypeTEtag]Last-ModifiedTDate]Accept-Ranges^Content-LengthZKeep-AliveZConnection]Apache/2.2.27Xtext/css_"1016-4fef9711ed340"_Fri, 25 Jul 2014 00:13:25 GMT_Fri, 29 Aug 2014 16:33:06 GMTUbytesT4118_timeout=5, max=100ZKeep-Alive“+,^_\NSDictionary¢^/“+,bc_NSHTTPURLResponse£de/_NSHTTPURLResponse]NSURLResponse_NSKeyedArchiver—hi_WebResourceResponseÄ    # - 2 7 X ^ y | Ä É Ü â ç ê ó ö ù † £ ¶ ® ™ ¨ Æ ∞ ± ≥ µ ∑ π ª Ω ø ∆ Œ ⁄ ‹ ﬁ ‡ ˚ &/13:BMWY[]_acegisuwy{}ÅÉÖáéõ†Æ≥¡–€ÊÙ˝4TZ_tÑëîóú∞¥»÷ËÎ             j              Obody{background-color:#CCC;color:#000;font-weight:normal;margin:8px;font-family:Helvetica,Arial,FreeSans,sans-serif;font-size:100%}p,ol,ul,h1,h2,h3,dt,dd,table{font-weight:normal;line-height:1.125em}p,hr{max-width:900px;}ol,ul{max-width:865px;}hr{margin-left:0; text-align:left;}pre,tt,code{font-family:"Courier New",Courier,monospace;font-size:100%}h1{clear:both;font-size:1.375em;line-height:1em}h2{font-size:1.25em;line-height:1.25em;margin:1.9ex 0 0 0;font-family: Palatino, "Palatino Linotype",Serif;}h3{font-weight:bold}tr,td{font-family:Helvetica,Arial,FreeSans,Sans-Serif;font-weight:normal;font-size:100%}abbr{border-bottom:1px dotted black}.body{font-family:Helvetica,Arial,FreeSans,sans-serif;font-size:100%}.blu{color:#09F;text-decoration:none}.code{font-family:"Courier New",Courier,monospace;font-size:100%}.quote{font-family:Palatino,"Palatino Linotype",Georgia,Serif;font-style:italic;color:#07572c;}.tagline{color:#333;font-family:Helvetica,Arial,FreeSans,sans-serif;font-size:75%;text-align:right}a:link{color:#00F;text-decoration:none}a:visited{color:#711b8d;text-decoration:none}a:hover{color:#00F;text-decoration:underline}a:active{color:#00F}#top{float:left;margin:0 0 1em 1.5em}#top img{border:0}#bl{width: 50%; float:left; max-width:450px;}#br{width: 50%; float: left; text-align: right;max-width:450px;}#bl img {border:0; margin: 0 0 1.5em 1.5em;}#trycode{font-family:"Menlo","Bitstream Vera Sans Mono","Courier New",Courier,monospace;font-size:100%;height:80px;width:400px}#tnav{height:50px;width:50em}#tnav>ul{list-style:none;margin:0;padding:0}#tnav>ul>li{display:block;float:left;height:40px;line-height:40px;margin:0 .15em;outline:0;text-align:center;width:140px}#tnav a{text-decoration:none;display:block}#tnav a:link{color:#03F;text-decoration:none}#tnav a:visited{color:#03F;text-decoration:none}#tnav ul li a:active{border-color:#09C;-webkit-border-radius:8px;-moz-border-radius:8px;border-radius:8px;-webkit-box-shadow:inset 0 1px 0 0 rgba(0,0,0,.18);-moz-box-shadow:inset 0 1px 0 0 rgba(0,0,0,.18);box-shadow:inset 0 1px 0 0 rgba(0,0,0,.18);color:#FFF}.tbtn{background-color:#f0f1f3;border-color:gray;-webkit-border-radius:8px;-moz-border-radius:8px;border-radius:8px;border-style:solid;border-width:1px;box-shadow:0 1px 0 0 rgba(255,255,255,0.6) inset;cursor:pointer;font-family:Helvetica,Arial,FreeSans,sans-serif;font-size:1.1em;font-weight:normal;height:40px;text-decoration:none;	-webkit-transition: background-color .55s; -moz-transition: background-color .55s; -o-transition: background-color .55s; transition: background-color .55s;}.tbtn:hover{background-color:#09c;-webkit-transition:background-color .55s;-moz-transition:background-color .55s;-o-transition:background-color .55s;transition:background-color .55s}.tbtn a:focus{outline:0;background-color:#09C;border-color:gray;-webkit-border-radius:8px;-moz-border-radius:8px;border-radius:8px;border-style:solid;border-width:1px}#search{margin-left:10px;position:absolute}#q{color:rgb(80, 80, 80);background-color:#fffefe;background-image:-moz-linear-gradient(top,#fffefe,#ccc 0,#fff 2px);background-image:-webkit-linear-gradient(top,#fffefe,#ccc 0,#fff 2px);background-image:-o-linear-gradient(top,#fffefe,#ccc 0,#fff 2px);background-image:-ms-linear-gradient(top,#fffefe,#ccc 0,#fff 2px);background-image:linear-gradient(top,#fffefe,#ccc 0,#fff 2px);-webkit-border-radius:30px;-moz-border-radius:30px;border-radius:30px;border:1px solid #777;font:16px Helvetica,Arial,FreeSans,sans-serif;height:18px;left:0;padding:6px 15px 6px 30px;position:absolute;top:5px;z-index:1}#q:focus{background-color:#fffefe;border:1px solid #09C;-webkit-border-radius:30px;-moz-border-radius:30px;border-radius:30px;box-shadow:0 0 6px #09C;outline:0;-webkit-transition:background-color .55s;-moz-transition:border-color .55s;-o-transition:background-color .55s;transition:border-color .55s}#q-img{background-color:transparent;background-image:url("images/search.png");background-repeat:no-repeat;border:medium none;cursor:pointer;height:15px;margin:0;padding:0;position:relative;top:1px;left:10px;vertical-align:middle;width:15px;z-index:5}Xtext/css‘_http://ss64.com/images/top.pngO˘bplist00‘fgX$versionX$objectsY$archiverT$top Ü†Ø#)*0123KLMNOPQRSTUVWXYZ[\]`aU$null›	
+ !"R$6S$10R$2R$7R$3S$11R$8V$classR$4R$9R$0R$5R$1Ä	ÄÄÄÄÄÄÄ”$%&'(WNS.base[NS.relativeÄ ÄÄ_http://ss64.com/images/top.png“+,-.Z$classnameX$classesUNSURL¢-/XNSObject#Aπ∞‚¬ç–¶ »”456@JWNS.keysZNS.objects©789:;<=>?Ä	Ä
+ÄÄÄÄÄÄÄ©ACDEFGHIÄÄÄÄÄÄÄÄÄÄVServer\Content-TypeTEtag]Last-ModifiedTDate]Accept-Ranges^Content-LengthZKeep-AliveZConnection]Apache/2.2.27Yimage/png_"e2-4dfd1bc96c900"_Sun, 23 Jun 2013 12:50:12 GMT_Fri, 29 Aug 2014 16:33:06 GMTUbytesS226_timeout=5, max=99ZKeep-Alive“+,^_\NSDictionary¢^/‚“+,bc_NSHTTPURLResponse£de/_NSHTTPURLResponse]NSURLResponse_NSKeyedArchiver—hi_WebResourceResponseÄ    # - 2 7 X ^ y | Ä É Ü â ç ê ó ö ù † £ ¶ ® ™ ¨ Æ ∞ ± ≥ µ ∑ π ª Ω ø ∆ Œ ⁄ ‹ ﬁ ‡ #,579@HS]_acegikmoy{}ÅÉÖáâãçî°¶¥π«÷·Ï˙9Y_cwÇáîóôû≤∂ ÿÍÌ             j              O‚âPNG
+
+   IHDR         ◊c,œ   	pHYs  %  %IR$   îIDATxúÏ‘±Ä ÖaF†¶bGp+fr2GqÑxQ"·=ÑBã?°‡Ó+HPﬁ{5¢!ËWeñ’≈∫¡”°-‰•x÷Ø¬∆[†Œ†ª·:I£…ßPßQoÇ"x3¥øQh	œ¬Ê¸{i¥ÄªL°xéÔ;KñEìΩ6Ÿ´opÔæ   ˇˇ ò≥‰˝Ä    IENDÆB`ÇYimage/png    1 < S b t ä ® © ¡GkGuG{G~GáGùG∏K≥[Õ[÷[ﬂ\ _˝`‚                           `Ï
