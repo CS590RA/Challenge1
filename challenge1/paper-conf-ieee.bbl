@@ -1,0 +1,14 @@
+\begin{thebibliography}{1}
+
+\bibitem{netflow}
+Cisco NetFlow.
+\newblock http://en.wikipedia.org/wiki/netflow.
+
+\bibitem{zhao2014can}
+Shuai Zhao, Kelsey Leftwich, Matthew Owens, Frank Magrone, James Schonemann,
+  Brian Anderson, and Deep Medhi.
+\newblock I-can-mama: Integrated campus network monitoring and management.
+\newblock In {\em Network Operations and Management Symposium (NOMS), 2014
+  IEEE}, pages 1--7. IEEE, 2014.
+
+\end{thebibliography}
